@@ -7,3 +7,4 @@ This software is dual-licensed under:
 - Commercial license (please contact: justus.schock@med.uni-duesseldorf.de)
 - AGPL (GNU Affero General Public License) open source license
 
+🚧 Under Construction 🚧
