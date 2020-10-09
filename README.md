@@ -8,3 +8,5 @@ This software is dual-licensed under:
 - AGPL (GNU Affero General Public License) open source license
 
 For Code requests or any other issues, please do not hesitate to contact me at justus.schock@lfb.rwth-aachen.de
+
+> **Note**: We are currently refactoring the Code for release. In the meantime, you can get the previous version by contacting me.
